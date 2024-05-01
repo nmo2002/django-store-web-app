@@ -1,0 +1,38 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "Burger",
+            "price": "15.00",
+            "description": "Tasty burger."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "Pizza",
+            "price": "8.00",
+            "description": "Our best cheese pizza."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "Takis",
+            "price": "2.00",
+            "description": "Spicy chips for you."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 4,
+        "fields": {
+            "name": "Cake",
+            "price": "40.00",
+            "description": "Chocolate chip mint cake."
+        }
+    }
+]
